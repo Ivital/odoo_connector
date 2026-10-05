@@ -19,3 +19,8 @@ msgstr "Конектор"
 #: model_terms:ir.ui.view,arch_db:connector.view_partner_connector_form
 msgid "Connectors"
 msgstr "Конектори"
+
+#. module: connector
+#: model:ir.model.fields,field_description:connector.field_external_binding__sync_date
+msgid "Last synchronization date"
+msgstr "Дата останньої синхронізації"
