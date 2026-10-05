@@ -12,3 +12,10 @@ msgstr ""
 #: model:ir.module.module,shortdesc:base.module_connector
 msgid "Connector"
 msgstr "Конектор"
+
+#. module: connector
+#: model:ir.ui.menu,name:connector.menu_connector
+#: model:ir.ui.menu,name:connector.menu_connector_root
+#: model_terms:ir.ui.view,arch_db:connector.view_partner_connector_form
+msgid "Connectors"
+msgstr "Конектори"
