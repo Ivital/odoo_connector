@@ -24,3 +24,18 @@ msgstr "Конектори"
 #: model:ir.model.fields,field_description:connector.field_external_binding__sync_date
 msgid "Last synchronization date"
 msgstr "Дата останньої синхронізації"
+
+#. module: connector
+#: model:ir.model,name:connector.model_connector_backend
+msgid "Connector Backend"
+msgstr "Бекенд конектора"
+
+#. module: connector
+#: model:res.groups,name:connector.group_connector_manager
+msgid "Connector Manager"
+msgstr "Менеджер конектора"
+
+#. module: connector
+#: model:ir.model,name:connector.model_external_binding
+msgid "External Binding (abstract)"
+msgstr "Зовнішнє прив’язування (абстрактне)"
